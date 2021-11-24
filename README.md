@@ -23,6 +23,6 @@
 <a href="https://twitter.com/MrDoc94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adelemphii" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/Doc94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adelemphii" height="30" width="40" /></a>
 <a href="https://www.twitch.tv/thedoc94" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Twitch_logo.svg" alt="sX6FUau" height="30" width="40" /></a>
- <a href="https://stackoverflow.com/users/doc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="doc" height="30" width="40" /></a>
+ <a href="https://stackoverflow.com/users/7704486" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="doc" height="30" width="40" /></a>
 <a href="https://instagram.com/pedrodoc94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedrodoc94" height="30" width="40" /></a>
 </p>
