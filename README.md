@@ -1,6 +1,8 @@
 <h1 align="center">Hi 🐺, I'm Doc</h1>
 <h3 align="center">A passionate informatic from Chile</h3>
 
+<img src="https://api.statusbadges.me/badge/intellij/216316781483130880" alt="intellij"> <img src="https://api.statusbadges.me/badge/playing/216316781483130880" alt="playing">
+
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
